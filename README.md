@@ -49,7 +49,7 @@ Die meisten meiner Projekte auf GitHub sind speziell für die mobile Nutzung (Sm
 
 ## Gründer von DevBeginner 💻
 <a href="https://devbeginner.free.nf" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/devbeginner_icon.png" alt="DevBeginner Logo" width="120" />
+  <img src="./assets/DevBeginner_Icon.png" alt="DevBeginner Logo" width="120" />
 </a>
 <br>
 <b><a href="https://devbeginner.free.nf">https://devbeginner.free.nf</a></b>
