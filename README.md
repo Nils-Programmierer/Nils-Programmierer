@@ -25,7 +25,7 @@ Die meisten meiner Projekte auf GitHub sind speziell für die mobile Nutzung (Sm
 
 
 ## Frontend
-<p>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
@@ -36,7 +36,7 @@ Die meisten meiner Projekte auf GitHub sind speziell für die mobile Nutzung (Sm
 
 
 ## Backend
-<p>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" />
@@ -47,7 +47,7 @@ Die meisten meiner Projekte auf GitHub sind speziell für die mobile Nutzung (Sm
 
 
 ## 🛠 Tools & Workflow
-<p>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40" />
@@ -105,5 +105,5 @@ Die meisten meiner Projekte auf GitHub sind speziell für die mobile Nutzung (Sm
 
 
 ## 📫 Kontakt & Socials
-- 📧 Mail: [nils.programmierer@gmail.com](mailto:nils.programmierer@gmail.com)
+- 📧 Mail: [info@nils-programmierer.free.nf](mailto:info@nils-programmierer.free.nf)
 - 🌐 Portfolio: [https://nils-programmierer.free.nf](https://nils-programmierer.free.nf)
